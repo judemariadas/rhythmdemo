@@ -24,10 +24,8 @@ The analysis explores biological time series data using various techniques inclu
 - pandas
 - numpy
 - matplotlib
-- seaborn
-- scipy
 - pywt (PyWavelets)
-- dtaidistance
+
 
 ## Data Description
 
