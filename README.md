@@ -1,4 +1,5 @@
-# Mouse Temperature and Activity Analysis
+
+# JupyterLite Demo of Mouse Temperature and Activity Analysis
 
 This repository contains Python code for analyzing sex differences in core body temperature (CBT) and locomotor activity (LA) patterns in mice, including analyzing the effects of the estrous cycle in females. 
 
